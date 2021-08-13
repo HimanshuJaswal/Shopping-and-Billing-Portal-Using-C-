@@ -1,0 +1,17 @@
+Z_london_ 550 6
+Jeans_ 1250 15
+S_shirt_ 750 5
+top_ 500 7
+Scarf_ 650 5
+Socks_ 1100 12
+Crop_top_ 800 10
+jacket_ 500 5
+Ethic_top 550 0 
+D_jacket 1250 0
+Scarf 750 0
+Socks 500 0 
+Jeans 650 0 
+Z_london 800 0
+Crop_top 500 0
+onepiece 950 0
+S_shirt  650 0

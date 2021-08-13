@@ -1,0 +1,12 @@
+Boots_ 550 7
+Crocs_ 1250 12
+F_Flops_ 750 5
+Sandals_ 1100 10
+Sneakers_ 950 5
+Slippers_  650 6
+Boots 550 0
+Crocs 1250 0
+F-Flops 750 0
+Sandals 1100 0
+Sneakers 950 0
+Slippers  650 0
